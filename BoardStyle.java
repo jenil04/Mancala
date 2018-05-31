@@ -3,7 +3,6 @@ import java.awt.Shape;
 /**
  * Models a BoardStyle interface for strategy classes: RegularStyle &
  * CircularStyle.
- * @author Team Green: Yen Huynh, Samantha Ignacio, & Anthony Minaise
  * 12/5/17 
  */
 
