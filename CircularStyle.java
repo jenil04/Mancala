@@ -3,7 +3,6 @@ import java.awt.geom.Ellipse2D;
 
 /** 
  * Models a strategy class for circular style. 
- * @author Team Green: Yen Huynh, Samantha Ignacio, & Anthony Minaise
  * 12/5/17
  */
 
