@@ -10,7 +10,6 @@ import javax.swing.JPanel;
 /**
  * Models a MancalaTester class to gets the options and calls on other classes
  * to display and run the mancala board.
- * @author Team Green: Yen Huynh, Samantha Ignacio, & Anthony Minaise
  * 12/5/17
  */
 
