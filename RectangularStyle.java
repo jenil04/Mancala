@@ -3,7 +3,6 @@ import java.awt.geom.Rectangle2D;
 
 /**
  * Models a strategy class for rectangular style.
- * @author Team Green: Yen Huynh, Samantha Ignacio, & Anthony Minaise
  * 12/5/17 
  */
 
