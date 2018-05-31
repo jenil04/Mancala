@@ -6,7 +6,6 @@ import javax.swing.event.ChangeListener;
 /**
  * Models a Board class to gives the game functionalities,
  * keeps track of statues for both and checks who wins when game ends.
- * @author Team Green: Yen Huynh, Samantha Ignacio, & Anthony Minaise
  * 12/5/17
  */
 public class Board {
