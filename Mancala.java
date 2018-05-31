@@ -5,7 +5,6 @@ import java.awt.Shape;
 /** 
  * Models a Mancala class to initializes mancalas on board and marbles within
  * as data changes.
- * @author Team Green: Yen Huynh, Samantha Ignacio, & Anthony Minaise
  * 12/5/17
  */
 
