@@ -11,7 +11,6 @@ import javax.swing.event.ChangeListener;
 
 /**
  * Models a Board class to view the state of the board.
- * @author Team Green: Yen Huynh, Samantha Ignacio, & Anthony Minaise
  * 12/5/17
  */
 
